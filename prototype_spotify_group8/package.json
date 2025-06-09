@@ -1,0 +1,8 @@
+{
+  "name": "spotify-prototype",
+  "version": "1.0.0",
+  "description": "Spotify UI prototype",
+  "scripts": {
+    "build": "echo 'No build needed for static site'"
+  }
+}
